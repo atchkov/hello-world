@@ -4,8 +4,8 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="ID"><b>Enter ID</b></label>
-    <input type="text" placeholder="Enter Full ID" name="ID" id="ID" required>
+    <label for="Name"><b>Enter Name</b></label>
+    <input type="text" placeholder="Enter Full Name" name="Name" id="ID" required>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
